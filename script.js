@@ -1,2 +1,2 @@
-// Script placeholder for future features
-console.log("Primenuel.FX site loaded");
+// Add future interactivity here if needed
+console.log("primenuel.fx website loaded ✅");
